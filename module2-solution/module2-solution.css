@@ -49,6 +49,7 @@ body {
   @media (min-width:768px) and (max-width:991px){
     .box{
       width:50%;
+    }
     #sushi{
       width:98%;
     }
@@ -57,3 +58,4 @@ body {
     .box{
       width:100%;
     }
+  }
