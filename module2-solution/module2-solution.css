@@ -20,16 +20,19 @@ body {
   float: right;
   border:1px solid black;
   margin-top:0px;
+  font-family: sans-serif;
+  padding: 5px 30px;
   font-size:1.25em;
 }
 #number1 {
-  background-color: #A52A2A;
+  background-color: #FFB6C1;
 }
 #number2 {
-  background-color: #DEB887;
+  background-color: #CD5C5C;
+  color: #fff;
 }
 #number3 {
-  background-color: #5F9EA0;
+  background-color: #F0E68C;
 }
 .boxstyle{
   background-color: #A9A9A9;
